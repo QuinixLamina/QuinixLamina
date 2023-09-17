@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=QuinixLamina&icon=5&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
+
 
 <!--
 **QuinixLamina/QuinixLamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
